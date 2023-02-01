@@ -1,0 +1,7 @@
+.container_display {
+    height: 100px;
+    width: 200px;
+    margin: 20px auto;
+    border: 1px solid black;
+    text-align: center;
+}
